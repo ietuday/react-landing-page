@@ -51,12 +51,6 @@
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 11,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
     }
   ],
   "./flaticon.css": [
@@ -95,14 +89,6 @@
     {
       "id": "../../node_modules/react-accessible-accordion/dist/fancy-example.css",
       "name": "../../node_modules/react-accessible-accordion/dist/fancy-example.css",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "react-image-gallery/styles/css/image-gallery.css": [
-    {
-      "id": "../../node_modules/react-image-gallery/styles/css/image-gallery.css",
-      "name": "../../node_modules/react-image-gallery/styles/css/image-gallery.css",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
